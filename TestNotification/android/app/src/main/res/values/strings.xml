@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestNotification</string>
+    <color name="white">#FFF</color>
+</resources>
